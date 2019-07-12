@@ -1,4 +1,5 @@
-// Algorithms HW#6 B04605052 資管四 施星宇
+/* by Dipsy */
+/* 2018.12.11*/
 #include <iostream>
 #include <string> // 需要些許的字串處理
 #include <fstream> // 要開啟檔案用
