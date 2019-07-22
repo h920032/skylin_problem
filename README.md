@@ -1,4 +1,4 @@
-# skylin_problem by Hugo Shih
+# skyline_problem by Hugo Shih
 ## Problem Description
 Implement an algorithm that computes the skyline of a list of buildings. The representations of a building and a skyline are as discussed in class except that parentheses are omitted and commas are replaced by spaces. The height and width of a building are always positive integers.
 
